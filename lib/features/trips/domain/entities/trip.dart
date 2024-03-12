@@ -1,7 +1,7 @@
 class Trip {
   final String title;
   final List<String> photos;
-  final List<String> description;
+  final String description;
   final DateTime date;
   final String location;
 
